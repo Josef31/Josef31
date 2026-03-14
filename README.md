@@ -43,7 +43,7 @@ I am a Backend Developer focused on building scalable software architectures, de
 
 ## <img src="https://cdn.simpleicons.org/github/white" width="18"> Contribution Activity
 
-![Snake animation](https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Josef31/Josef31/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
