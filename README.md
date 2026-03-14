@@ -1,6 +1,6 @@
 # José Fernández
-<!-- <p align="center"> <img src="" width="450" alt="Coding Animation" /> </p> -->
 **Backend Developer**
+ <p align="center"> <img src="./assets/programming.gif" width="450" alt="Coding Animation" /> </p>
 
 I am a Backend Developer focused on building scalable software architectures, designing efficient database systems, and optimizing performance. I am highly proficient in Linux environments and dedicated to writing clean, maintainable code.
 
@@ -28,6 +28,7 @@ I am a Backend Developer focused on building scalable software architectures, de
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -52,7 +53,7 @@ I am a Backend Developer focused on building scalable software architectures, de
   <a href="https://www.linkedin.com/in/jose-antonio-fernandez-gonzalez-3455b0241/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="email:josef310798@gmail.com">
+  <a href="mailto:josef310798@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
