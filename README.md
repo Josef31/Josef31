@@ -39,12 +39,12 @@ I am a Backend Developer focused on building scalable software architectures, de
 * **API Development:** Building robust and scalable RESTful services using Laravel and Python.
 * **System Administration:** Fluent in terminal usage, automation, and environment configuration on **Unix-like (CachyOS/Arch)** and **Windows** systems.
 
+<!--
 ---
-
 ## <img src="https://cdn.simpleicons.org/github/white" width="18"> Contribution Activity
 
-![Snake animation](https://github.com/Josef31/Josef31/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Josef31/Josef31/blob/output/github-contribution-grid-snake-dark.svg)
+-->
 ---
 
 ## <img src="https://cdn.simpleicons.org/minutemailer/white" width="18"> Professional Contact
